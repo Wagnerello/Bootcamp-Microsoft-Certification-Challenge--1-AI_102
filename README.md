@@ -6,7 +6,7 @@
       <img src="img/badge.webp" alt="Microsoft Bootcamp logo" width="300"/>
     </a>
     <a href="https://www.dio.me/users/wagnertecno">
-      <img src="https://hermes.dio.me/public-users/wagnertecno/share/f697e0c84162492afa6e087421dd82a8.png" alt="DIO User Badge" width="600"/>
+      <img src="https://hermes.dio.me/public-users/wagnertecno/share/f697e0c84162492afa6e087421dd82a8.png" alt="DIO User Badge" width="400"/>
     </a>
   </div>
 </p>
